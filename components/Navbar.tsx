@@ -112,7 +112,7 @@ export function Navbar() {
             className="md:hidden bg-card/95 backdrop-blur-xl border-b border-border/50 pb-6 pr-2 space-y-4 absolute top-full left-0 w-full shadow-lg" 
           >
             {[
-              { href: '/home', label: 'Home' },
+              { href: '/', label: 'Home' },
               { href: '/features', label: 'Features' },
               { href: '/blog', label: 'Blog' },
               { href: '/contact', label: 'Contact' },
