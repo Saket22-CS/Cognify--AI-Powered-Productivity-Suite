@@ -71,7 +71,7 @@ export function Pricing() {
           className="text-center mb-16 space-y-4"
         >
           <h2 className="text-4xl sm:text-5xl font-bold bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
-            Simple, Transparent Pricing
+            Upgrade Your Plan 🚀
           </h2>
           <p className="text-lg text-foreground/60 max-w-2xl mx-auto">
             Choose the perfect plan for your team. Always flexible to scale.
