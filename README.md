@@ -360,6 +360,7 @@ This project was built with genuine passion and a whole lot of late nights by:
 ### Our Supervisor
 **Mr. Dileep Kumar Yadav**
 Assistant Professor, Department of Computer Science & Engineering
+<br>
 Veer Bahadur Singh Purvanchal University, Jaunpur
 
 *Thank you for your patience, guidance, and support throughout this journey. Every review session, every suggestion, and every word of encouragement made a real difference.*
