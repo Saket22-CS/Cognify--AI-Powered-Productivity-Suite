@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/COGNIFY-AI%20Powered%20SaaS-00C2CB?style=for-the-badge&logo=react&logoColor=white" alt="COGNIFY" width="300"/>
