@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { Sparkles, Github, Linkedin, Twitter } from 'lucide-react';
 import Image from 'next/image';
 import { useState } from 'react';
+import VisitorCounter from "@/components/VisitorCounter";
 
 const footerLinks = {
   Product: [
@@ -163,6 +164,12 @@ export function Footer() {
         >
           <p className="text-sm text-foreground/60">
             © 2026 Cognify. All rights reserved.
+            {/* <span> | </span>
+            <VisitorCounter /> */}
+          </p>
+
+          <p>
+            <VisitorCounter />
           </p>
 
           <div className="flex items-center gap-4">
