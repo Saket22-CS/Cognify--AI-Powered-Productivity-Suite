@@ -387,7 +387,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 Have questions, suggestions, or just want to say hi?
 
-- 📧 **Indrasen Singh** — indrasensingh770@gmail.com
 - 📧 **Saket Chaudhary** — saketrishu64821@gnail.com
 
 ---
