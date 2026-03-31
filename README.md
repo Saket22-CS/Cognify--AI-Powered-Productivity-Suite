@@ -345,13 +345,11 @@ This project was built with genuine passion and a whole lot of late nights by:
 <table>
   <tr>
     <td align="center">
-      <b>Indrasen Singh</b><br/>
-      <sub>Roll No. 22001303025</sub><br/>
+      <b>Saket Chaudhary</b><br/>
       <sub>Full-Stack Development · AI Integration · Database Design</sub>
     </td>
     <td align="center">
-      <b>Saket Chaudhary</b><br/>
-      <sub>Roll No. 22001303043</sub><br/>
+      <b>Indrasen Singh</b><br/>
       <sub>Frontend Architecture · UI/UX · Stripe Integration · Testing</sub>
     </td>
   </tr>
